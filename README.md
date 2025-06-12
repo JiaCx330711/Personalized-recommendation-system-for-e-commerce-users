@@ -1,5 +1,4 @@
-# Personalized-recommendation-system-for-e-commerce-users
-Python数据分析项目实践
+# Python数据分析项目实践
 项目选题与计划提交（10%）
   - 提交1-2页项目计划书，包含问题描述、数据来源、分析方法、预期成果
   - 教师审核并提供反馈
